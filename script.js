@@ -1,5 +1,5 @@
 const endDate = "1 June 2023 6:02 PM";
-const startTime = "1 June 2023 5:00 PM";
+const startTime = "28 June 2023 12:00 AM";
 
 document.getElementById("endDate").innerHTML = endDate;
 const inputs = document.querySelectorAll("input");
